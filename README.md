@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaarthKulkarni
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and UIPath
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me paarthkiran1996@gmail.com
 
